@@ -1,0 +1,14 @@
+{
+  "name": "NoCorsHTTPS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
